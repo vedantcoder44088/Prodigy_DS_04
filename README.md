@@ -1,9 +1,9 @@
-**Prodigy_DS_04**
+# Prodigy_DS_04
 
-**Overview:**
+# Overview:
 This repository contains the code and analysis performed during my project at Prodigy InfoTech. The notebook Prodigy_DS_04.ipynb demonstrates data preprocessing, exploratory data analysis, sentiment analysis, and predictive modeling tasks using Python.
 
-**Getting Started:**
+# Getting Started:
 - **Clone the Repository:**  
 ```bash
 git clone https://github.com/vedantcoder44088/Prodigy_DS_04.git
@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Download the Dataset:**  
 Download the dataset named `twitter_training.csv` and `twitter_validation.csv` and place them in the project directory.
 
-**Project Steps:**
+# Project Steps:
 1. **Data Loading and Exploration:**  
    - Loaded the training and validation datasets into pandas DataFrames.
    - Explored the structure, columns, and summary statistics of the datasets.
@@ -49,7 +49,7 @@ Download the dataset named `twitter_training.csv` and `twitter_validation.csv` a
    - Visualized decision trees using the plot_tree function to understand the model's decision-making process.
 
   
-**Requirements:**
+# Requirements:
 - Python 3.x
 - pandas
 - numpy
@@ -57,9 +57,9 @@ Download the dataset named `twitter_training.csv` and `twitter_validation.csv` a
 - seaborn
 - scikit-learn
 
-**Usage:**
+# Usage:
 - Open the Jupyter Notebook `Prodigy_DS_04.ipynb` to view the project documentation and code.
 - Execute each cell of the notebook to reproduce the analysis and results.
 
-**License:**
+# License:
 This project is licensed under the MIT License. See the LICENSE file for details.
